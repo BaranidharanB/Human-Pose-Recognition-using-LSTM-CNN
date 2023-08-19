@@ -41,12 +41,12 @@
 
 <img width="453" alt="Screenshot 2023-08-18 at 10 39 52 PM" src="https://github.com/BaranidharanB/Human-Pose-Recognition-using-LSTM-CNN/assets/118863352/9a453faf-03d3-425c-8cf2-674dacdd4a24">
 
-# LRC Model Total Accuracy vs Total Validation
+# LRCN Model Total Accuracy vs Total Validation
 
 ![lrcn totacc vs totval](https://github.com/BaranidharanB/Human-Pose-Recognition-using-LSTM-CNN/assets/118863352/41b148e7-7a7e-46a6-8489-ebce3e84e75f)
 
 
-# LRC Model Total Loss vs Total Validation
+# LRCN Model Total Loss vs Total Validation
 
 ![lrcn totloss vs totval](https://github.com/BaranidharanB/Human-Pose-Recognition-using-LSTM-CNN/assets/118863352/8431d9f9-1270-4583-b805-0e74f394aa6e)
 
