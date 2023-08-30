@@ -1,6 +1,6 @@
 # Human-Pose-Recognition-using-LSTM-LRCN-CNN
 
-# LSTM (Long-term recurrent convolutional network)
+# LSTM (Long-Short Term Memory Network)
 
 - LSTM CNN is a deep learning model that can be used for human pose recognition. LSTM is a type of recurrent neural network that is well-suited for modeling sequential data. CNN is a type of convolutional neural network that is well-suited for extracting features from images.
 - LSTM is a type of recurrent neural network that is well-suited for modeling sequential data. Sequential data is data that is ordered in time, such as speech, music, and video. LSTM can learn long-term dependencies in sequential data, which makes it well-suited for tasks such as machine translation and speech recognition
